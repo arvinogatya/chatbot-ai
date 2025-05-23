@@ -1,6 +1,6 @@
 export const greetingTime = () => {
-  const now = new Date()
-  const hour = now.getHours()
+  // const now = new Date()
+  // const hour = now.getHours()
 
   // if (hour >= 5 && hour <= 10) {
   //   return 'Good Morning, can i help you today?'
