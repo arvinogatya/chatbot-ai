@@ -32,3 +32,4 @@ coverage
 # local files
 .env
 groq.js
+.vercel
